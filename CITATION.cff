@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite the MICCAI 2019 paper below."
+title: "Attention-Guided Cephalometric Landmark Detection: Research Code"
+type: software
+version: 1.0.0
+date-released: 2026-10-22
+repository-code: "https://github.com/zzs95/dental-landmark-localization"
+authors:
+  - family-names: Zhong
+    given-names: Zhusi
+  - family-names: Li
+    given-names: Jie
+  - family-names: Zhang
+    given-names: Zhenxi
+  - family-names: Jiao
+    given-names: Zhicheng
+  - family-names: Gao
+    given-names: Xinbo
+preferred-citation:
+  type: conference-paper
+  title: "An Attention-Guided Deep Regression Model for Landmark Detection in Cephalograms"
+  authors:
+    - family-names: Zhong
+      given-names: Zhusi
+    - family-names: Li
+      given-names: Jie
+    - family-names: Zhang
+      given-names: Zhenxi
+    - family-names: Jiao
+      given-names: Zhicheng
+    - family-names: Gao
+      given-names: Xinbo
+  year: 2019
+  collection-title: "Medical Image Computing and Computer Assisted Intervention - MICCAI 2019"
+  collection-type: proceedings
+  volume: 11769
+  start: 540
+  end: 548
+  publisher:
+    name: Springer
+    city: Cham
+  doi: "10.1007/978-3-030-32226-7_60"
+  url: "https://doi.org/10.1007/978-3-030-32226-7_60"

@@ -1,0 +1,5 @@
+# Optional CRF postprocessing; not required for the default training path.
+pydensecrf
+
+# Legacy coarse_stage/data_preprocess.py also imports MXNet.
+# It is intentionally not installed by the core requirements.

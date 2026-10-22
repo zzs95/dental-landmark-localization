@@ -1,0 +1,10 @@
+# Imports used by the core research modules; this is not a validated lockfile.
+# Install a CUDA-compatible PyTorch build for your platform before this file.
+numpy
+torch
+torchvision
+Pillow
+opencv-python
+matplotlib
+pandas
+tqdm
