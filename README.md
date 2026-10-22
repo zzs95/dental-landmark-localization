@@ -5,7 +5,7 @@ Research code for **An Attention-Guided Deep Regression Model for Landmark Detec
 **Zhusi Zhong, Jie Li, Zhenxi Zhang, Zhicheng Jiao, Xinbo Gao**  
 *Medical Image Computing and Computer Assisted Intervention - MICCAI 2019*, LNCS 11769, pp. 540-548.
 
-[Paper / DOI](https://doi.org/10.1007/978-3-030-32226-7_60) | [arXiv](https://arxiv.org/abs/1906.07549) | [BibTeX](citation.bib) | [Pretrained checkpoint inventory](docs/CHECKPOINTS.md)
+[Paper / DOI](https://doi.org/10.1007/978-3-030-32226-7_60) | [arXiv](https://arxiv.org/abs/1906.07549) | [BibTeX](citation.bib) | [Pretrained weights](https://drive.google.com/file/d/17sb4rC5OnIgBBA6OrXzYg0wT-iOKzhdD/view?usp=sharing) | [Checkpoint inventory](docs/CHECKPOINTS.md)
 
 The framework localizes **19 anatomical landmarks** in lateral cephalometric X-rays. Two separately trained U-Nets combine global anatomical configuration with high-resolution local appearance. Global heatmaps guide local patch selection through the **Attention-Guide** mechanism, while **Expansive Exploration** enlarges the local search region without adding network parameters.
 
@@ -127,7 +127,17 @@ Its expected image and text-annotation layout is documented in [DATA_FORMAT.md](
 
 The original project still contains **four folds of coarse and refinement checkpoints** under `dental_review/stage1_model` and `dental_review/stage2_model`. Each checkpoint is about 51 MiB. Their parameter names are consistent with UNet, but loading and prediction quality have not been validated during this cleanup. See [the checkpoint inventory and loading notes](docs/CHECKPOINTS.md).
 
-Checkpoint binaries are deliberately excluded from this source folder and ignored by Git. There is no hosted download URL in this release.
+**[Download pretrained UNet weights from Google Drive](https://drive.google.com/file/d/17sb4rC5OnIgBBA6OrXzYg0wT-iOKzhdD/view?usp=sharing)**
+
+The separate archive, `dental-pretrained-unet.zip` (about 804 MiB), contains all 17 retained checkpoints for both stages and all four folds, together with a checkpoint inventory and per-file checksums. The linked Google Drive page is publicly accessible and displays the expected archive filename.
+
+Expected SHA-256 of the archive:
+
+```text
+290dfb582f88f779c680c028c5f02e9035383b13d27847b4491adfdd88af3363
+```
+
+The checksum is also available in [`docs/weights-archive.sha256`](docs/weights-archive.sha256). Extract the archive into a local directory and follow [CHECKPOINTS.md](docs/CHECKPOINTS.md). Model binaries remain separate from the Git repository and are ignored by Git.
 
 ## Prediction and evaluation status
 
