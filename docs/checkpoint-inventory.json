@@ -1,0 +1,240 @@
+[
+  {
+    "path": "dental_review/stage1_model/fold1/CP446.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "17d065e8ab0238419316cfa655e0dd79684b82e3a5c0ab1ebfb5074b213a1eab",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage1_model/fold1/CP546.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "ae39a85995c13f780427474b0c399b69706e0b2005ecab657ce1040f1b1cd606",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage1_model/fold2/CP187.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "4d8be1ab26fba45ea2e599d1f4e1a787a6d77f8d499b5693000beaf33d7db7c5",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage1_model/fold2/CP387.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "af647ca33b990a3f6092b35e6d4ee78536e6bd3f88e6218a4fdb3687a43a4a34",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage1_model/fold3/CP432.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "00fe32151551bd75601d18f2eef8d89e5e0276b3a680f2be37d1aa186e32863f",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage1_model/fold3/CP632.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "59273afabdb39032af2cd77223b15890d45974deb045e6b31273f29885b2870d",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage1_model/fold4/CP625.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "ac22b083a659b819197d9fb9b8d22cbb2e0fdaa406a144635f6a1dd5c0ce3dd4",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage1_model/fold4/CP825.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "d5c1829a0331f087f1c67917aabdca7f6c94d64f35b6c4a2dd5270f377a796cb",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage2_model/fold1/001/Bestmodel_1766.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "48c6c4a15e1cc3b5e18be5b7b733881be7a89eeb11495c79c1919e87548fe618",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage2_model/fold1/001/model_tmp.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "a8fe147d482693f511b0bedeb773644f50d059ac95717d2bbbd2056385022aaf",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage2_model/fold2/001/Bestmodel_2385.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "a8badc9c0f7a16e89571cf5841bdc9fb85a3198aed16c4461e2badc8508e5ff7",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage2_model/fold2/001/model_tmp.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "0d177466ba97c8c2189dc14bff563bef7e16984d4a92531242fb2196d680a476",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage2_model/fold3/001/Bestmodel_4602.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "6eda7f85b7966c349c9c40432413d66f58f4a62e205f3f8243d50afe7ed507fb",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage2_model/fold3/001/model_tmp.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "c920b565fc054a5c85496268b766bd4bdc96d805e63f39458ef75738029331ad",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage2_model/fold4/001/Bestmodel_1464.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "47eb79521129e331817cb70125a038212bb5124d13c4eaac08a3a86e6ee4f869",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage2_model/fold4/001/Bestmodel_2545.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "66da6c3690be8f4d00a865c61facd176318def2fc51dfea9e67cfc93981dda72",
+    "size_bytes": 53637725
+  },
+  {
+    "path": "dental_review/stage2_model/fold4/001/model_tmp.pth",
+    "size_mb": 51.15,
+    "architecture_from_parameter_names": "UNet-style",
+    "parameter_name_count": 74,
+    "sample_keys": [
+      "inc.conv.conv.0.weight",
+      "inc.conv.conv.0.bias",
+      "inc.conv.conv.1.weight",
+      "inc.conv.conv.1.bias"
+    ],
+    "sha256": "1f1a0b51bd7e58ebf68c87c987af9c8d9acede542cf1d70156fca7f2ac993778",
+    "size_bytes": 53637725
+  }
+]

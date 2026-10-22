@@ -1,0 +1,254 @@
+[
+  {
+    "source": "dental/refine_net/data_preprocess.py",
+    "destination": "refine_net/data_preprocess.py",
+    "source_sha256": "0ad3168ee14fad3db9a82af8f7f6d37ccf1dd99246c56b7eb0649a48ca2a20d2",
+    "path_literals_normalized": 5
+  },
+  {
+    "source": "dental/refine_net/dataset/__init__.py",
+    "destination": "refine_net/dataset/__init__.py",
+    "source_sha256": "9c594ee666e05604b3e5d14ee58b0a2bd6c1232e86b201d441bd7e166823d623",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/dataset/crop_data.py",
+    "destination": "refine_net/dataset/crop_data.py",
+    "source_sha256": "b8507bcf3dde57de7876726f0e2b7740d3c352e286c4509fecaaf8b51d32afc1",
+    "path_literals_normalized": 1
+  },
+  {
+    "source": "dental/refine_net/logger/__init__.py",
+    "destination": "refine_net/logger/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/logger/log.py",
+    "destination": "refine_net/logger/log.py",
+    "source_sha256": "29e48e8c23b9967fc84fad5e5d8f5f47d95a663f9b1c18acbebede45b2d739b3",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/logger/plot.py",
+    "destination": "refine_net/logger/plot.py",
+    "source_sha256": "ad5cd5a6a7a519a55231338111d726fbdd17e3a3c2cf4973d16f866d00c236a3",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/loss/__init__.py",
+    "destination": "refine_net/loss/__init__.py",
+    "source_sha256": "c7790358e39e4240f2a9454e6d5eed784c45fec312e72c65ceffa61319c85349",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/loss/dice_loss.py",
+    "destination": "refine_net/loss/dice_loss.py",
+    "source_sha256": "9b0580b9f90aac5c17d4acf0fd27e3931d6a9f060ef7686f2a043e4e05c61c0c",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/loss/focal_loss.py",
+    "destination": "refine_net/loss/focal_loss.py",
+    "source_sha256": "1090c496c1e920908df1c62c53ff805277fd5f82ca8950f3c8f36d1010d7a0e3",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/model/__init__.py",
+    "destination": "refine_net/model/__init__.py",
+    "source_sha256": "3d8916738f65bde512b24c8ddec87a236288630ed26e23c1fda5dc5a0b77d801",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/model/unet_model.py",
+    "destination": "refine_net/model/unet_model.py",
+    "source_sha256": "a6df8e4413bec2c9b1ef7b3267cec51bf0f53d5a9eecf433e4edbffabb52c1f6",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/model/unet_parts.py",
+    "destination": "refine_net/model/unet_parts.py",
+    "source_sha256": "47c62c85db2c20d7010b38455e176a3b91179ba866d05997be9229788a57e848",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/predicte.py",
+    "destination": "refine_net/predicte.py",
+    "source_sha256": "a0e5d441fa935e31fff6c30562bdbd1aa4d40d11f26113005b683f90dcbe01d6",
+    "path_literals_normalized": 6
+  },
+  {
+    "source": "dental/refine_net/scale0.5image.py",
+    "destination": "refine_net/scale0.5image.py",
+    "source_sha256": "cc8e606f5c2e9e4ba4975201b138525df8587cf52f2ccdff513f38c5f65d754c",
+    "path_literals_normalized": 4
+  },
+  {
+    "source": "dental/refine_net/train.py",
+    "destination": "refine_net/train.py",
+    "source_sha256": "a833788081b67c1f73b7c5bc50cddda97c0ceb5d55db801b48b23ebb8f067b1b",
+    "path_literals_normalized": 4
+  },
+  {
+    "source": "dental/refine_net/utils/__init__.py",
+    "destination": "refine_net/utils/__init__.py",
+    "source_sha256": "633c14b6648a71480b9555fe187ce1055bb922dc8002fe5842dc73c0b7349857",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/utils/crf.py",
+    "destination": "refine_net/utils/crf.py",
+    "source_sha256": "90b52f62eaaa20d7b1f23f2710e087908d8847a7913f4fb1bdea5ca2d6791470",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/utils/data_crop.py",
+    "destination": "refine_net/utils/data_crop.py",
+    "source_sha256": "ffe41724c4aabf40a03e3d51a98c2836a196d046985e5445733b5b7ee4d93961",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/utils/data_load.py",
+    "destination": "refine_net/utils/data_load.py",
+    "source_sha256": "98f189d03e4e725283c9036c418234d7c0900e45b80606aabd57d05c4f1e553f",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/utils/data_vis.py",
+    "destination": "refine_net/utils/data_vis.py",
+    "source_sha256": "0ec34cf29201ae63b6324640dccabebcfba4ee0409d8951084824780034f4d8a",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/utils/mask2label.py",
+    "destination": "refine_net/utils/mask2label.py",
+    "source_sha256": "40984fd8cbf966541e2722e6a3f4c455aa2306324618f48f7bedb690b2e8540f",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/utils/metrics.py",
+    "destination": "refine_net/utils/metrics.py",
+    "source_sha256": "2da6e931eebb00279b42ad4643c5b4f1454587785ed422e8668762c5f7956b4a",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/utils/optimizer.py",
+    "destination": "refine_net/utils/optimizer.py",
+    "source_sha256": "45d7c56f25728c0bf92aae904cf299f2e256e97e87fe9a6996be1402baa590b0",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/utils/preprocess.py",
+    "destination": "refine_net/utils/preprocess.py",
+    "source_sha256": "ba0bb0c0e4bed97bfc0d325289ee7976e1d34714c9576787382cf96be6508d1f",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/utils/scheduler.py",
+    "destination": "refine_net/utils/scheduler.py",
+    "source_sha256": "da22e6d491e5732c870ac5440386b0e013b31dd82834810749d332c54fc36fe9",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/refine_net/utils/utils.py",
+    "destination": "refine_net/utils/utils.py",
+    "source_sha256": "80662c44b808c3098177f2edc583edf33aaa35c6ee7d63840427aac7cc3d1793",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/Pytorch_UNet/__init__.py",
+    "destination": "coarse_stage/__init__.py",
+    "source_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/Pytorch_UNet/data_preprocess.py",
+    "destination": "coarse_stage/data_preprocess.py",
+    "source_sha256": "9b7a68317a966c43f54e4fcec91a29ae6da5ce17afe123a3dfa6b4b50711e300",
+    "path_literals_normalized": 1
+  },
+  {
+    "source": "dental/Pytorch_UNet/dice_loss.py",
+    "destination": "coarse_stage/dice_loss.py",
+    "source_sha256": "d00ad496e5f540c7ae12b2c7c01656627d986a09dca81a35b7ffde1eafb1b318",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/Pytorch_UNet/eval.py",
+    "destination": "coarse_stage/eval.py",
+    "source_sha256": "d55b21e0d29f045a1e8f76aa6643c817e2dd8e3145a4423ea178dc2683ec1e85",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/Pytorch_UNet/focal_loss.py",
+    "destination": "coarse_stage/focal_loss.py",
+    "source_sha256": "a3c5c4b599798d197290a28257ca56fb5e170193527d256858dcf02c2d11babd",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/Pytorch_UNet/predict.py",
+    "destination": "coarse_stage/predict.py",
+    "source_sha256": "933d36fe6d537abca6322b46fa5596779f4b0b88f07e2e5c33cb885aeb671f6d",
+    "path_literals_normalized": 4
+  },
+  {
+    "source": "dental/Pytorch_UNet/submit.py",
+    "destination": "coarse_stage/submit.py",
+    "source_sha256": "736aea99c83a8b13575c09a814b43e33cc844bf523752046b6c1fd5c4fa44ef4",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/Pytorch_UNet/train.py",
+    "destination": "coarse_stage/train.py",
+    "source_sha256": "9a1c2c72e576e5b062186f9dd5e9f7380b22919957ba94ac15eb0f3a016ed7ff",
+    "path_literals_normalized": 6
+  },
+  {
+    "source": "dental/Pytorch_UNet/unet/__init__.py",
+    "destination": "coarse_stage/unet/__init__.py",
+    "source_sha256": "883921d6e2c3e08869dbf2085c93bb1714aaac86700d7b68343eee8129e24ae4",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/Pytorch_UNet/unet/unet_model.py",
+    "destination": "coarse_stage/unet/unet_model.py",
+    "source_sha256": "0fca8697852428df7dd60bf1b14edb6f5300bde0c51c7a6193f0f563b8d8a510",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/Pytorch_UNet/unet/unet_parts.py",
+    "destination": "coarse_stage/unet/unet_parts.py",
+    "source_sha256": "3bd3a543fc14656f780a1f0cf99933de3fc5b45c01e7d7a535186b679396ebd4",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/Pytorch_UNet/utils/__init__.py",
+    "destination": "coarse_stage/utils/__init__.py",
+    "source_sha256": "d3fffb7bcb688d84c5557bcc1567e9f4f71372aab538eaf15624a0b50008f860",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/Pytorch_UNet/utils/crf.py",
+    "destination": "coarse_stage/utils/crf.py",
+    "source_sha256": "90b52f62eaaa20d7b1f23f2710e087908d8847a7913f4fb1bdea5ca2d6791470",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/Pytorch_UNet/utils/data_vis.py",
+    "destination": "coarse_stage/utils/data_vis.py",
+    "source_sha256": "0ec34cf29201ae63b6324640dccabebcfba4ee0409d8951084824780034f4d8a",
+    "path_literals_normalized": 0
+  },
+  {
+    "source": "dental/Pytorch_UNet/utils/load.py",
+    "destination": "coarse_stage/utils/load.py",
+    "source_sha256": "729e7bc70050c5abbab43930122a86055f72b697e772d17613afb855f7cecbf2",
+    "path_literals_normalized": 1
+  },
+  {
+    "source": "dental/Pytorch_UNet/utils/utils.py",
+    "destination": "coarse_stage/utils/utils.py",
+    "source_sha256": "e79e960d0c6ff9f2af9a283b036ece293ce3fc47dd2c9efadf62597cd2b3e930",
+    "path_literals_normalized": 0
+  }
+]
