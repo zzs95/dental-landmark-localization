@@ -1,0 +1,5 @@
+data/
+checkpoints/
+*.pth
+*.npy
+__pycache__/
